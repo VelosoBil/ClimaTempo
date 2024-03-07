@@ -181,8 +181,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Activation\ActivationHandler.cs" />
-    <Compile Include="Adapters\HourDataAdapter.cs" />
-    <Compile Include="Adapters\DayButtonAdapter.cs" />
+    <Compile Include="Adapters1\HourDataAdapter.cs" />
+    <Compile Include="Adapters1\DayButtonAdapter.cs" />
     <Compile Include="BackgroundTasks\BackgroundTask.cs" />
     <Compile Include="BackgroundTasks\LiveTileBackgroundTask.cs" />
     <Compile Include="Controls\InsightControl.xaml.cs">
